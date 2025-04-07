@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\EcommerceMini\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+C:\Users\USER\source\repos\EcommerceMini\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\USER\source\repos\EcommerceMini\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\USER\source\repos\EcommerceMini\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\EcommerceMini\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\EcommerceMini\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+C:\Users\USER\source\repos\EcommerceMini\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\EcommerceMini\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+C:\Users\USER\source\repos\EcommerceMini\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+C:\Users\USER\source\repos\EcommerceMini\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+C:\Users\USER\source\repos\EcommerceMini\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
